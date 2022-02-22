@@ -5,7 +5,7 @@
 - [Overview](#Overview)
 - [Project Summery](#Project-Summery)
 - [Resources](#Resources)
-- [Developer Name](#Develper-Name)
+- [Developer Name](#Developer-Name)
 
 ### Overview
 
@@ -20,7 +20,7 @@ The project to create an asynchronous web app that uses Web API and user data to
 4. After successful retrieval of the weather data, another Promise wae chained to make a POST request to add the API data, as well as data entered by the user, to the app.
 5. Finally, another Promise was chained to update the UI dynamically.
 
-### Resourses
+### Resources
 
 - https://classroom.udacity.com/
 - https://review.udacity.com/#!/rubrics/4671/view
